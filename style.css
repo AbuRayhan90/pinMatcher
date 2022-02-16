@@ -1,0 +1,44 @@
+.bg_gray {
+  background: #140f29;
+  height: 100vh !important;
+  width: 100%;
+}
+.full_height {
+  height: 100vh;
+}
+.generate_bg,
+.code_bg {
+  background: #1a263c;
+  padding: 20px 65px;
+  color: white;
+  height: 70vh;
+}
+.generate_btn {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: #2440be;
+  color: white;
+  font-size: 18px;
+  font-weight: 700;
+  border: 8px solid #4e4ecf;
+}
+
+.key_button {
+  width: 80px;
+  background: rgb(77, 76, 76);
+  height: 60px;
+  border: none;
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  border-radius: 8px;
+}
+.success {
+  color: green;
+  display: none;
+}
+.unsuccess {
+  color: red;
+  display: none;
+}
